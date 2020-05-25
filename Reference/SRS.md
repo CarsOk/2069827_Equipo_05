@@ -14,7 +14,7 @@
 
 ***
 
-* Alcance
+* **Alcance**
 
 
 * Actualmente la institución no cuenta con sistema de gestión de información que le permita controlar de manera eficaz su base de datos.

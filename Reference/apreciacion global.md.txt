@@ -1,0 +1,13 @@
+###APRECIACION GLOBAL
+
+ En esta documentación se logra percibir los  propósitos que tenemos con la creación de sofcol, cuales serán sus alcances y
+ que avances puede hacer en nuestro país.
+
+ se sabe que las tecnologías son la aplicación de la ciencia a la resolución de problemas concretos y esto es lo que buscamos
+ con la creación de sofcol que ayudara al  desarrollo integral ,educativo de las instituciones ,además que deseamos 
+ que sea globalmente reconocido como una herramienta para el sector de la educación .
+ 
+ al crear sofcol no solo ayudamos a las instituciones sino que  también se  encargara de brindar  seguridad y flexibilidad a 
+las estudiantes ayudara a la automatización de los datos ,su servicio será de grata importancia por que no solo cuidara de la 
+información de las institucional sino que también ayudara al sector salud en algún momento de emergencia que se presente 
+en cualquier institución siendo más practico con la generación de datos de gran importancia que pueden salvar la vida .
