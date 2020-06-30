@@ -1,2 +1,0 @@
-**Propósito**
-> **Nuestro propósito en la institución es mejorar el sistema que  utilizan para almacenar  toda la  infomacion  ya que tiene muchas fallas en el orden, rapidez, para  obtener la informacion y que los padres se les pueda facilitar saber toda la informacion de nuestra institucion, tambien darles  nuevas herramientas tengologicas  al sector administrativo para que su trabajo pueda ser mas eficiente y los padres a la hora de necesitar infomacion de sus hijos puedan conseguirla de una manera rapida  y segura**
