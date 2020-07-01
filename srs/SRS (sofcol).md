@@ -23,54 +23,54 @@ TABLA DE CONTENIDO
 
 
 PAGINA
-Especificación y análisis de requisitos del software----------1
+Especificación y análisis de requisitos del software ---------1
 
-Índice--------------------------------------------------------2
+Índice -------------------------------------------------------2
 
-1. Introducción-----------------------------------------------3
-
-
- 1.1 Propósito------------------------------------------------3
-
- 1.2 Alcance (Ámbito del sistema) ---------------------------3
-
- 1.3 Definiciones, Acrónimos y Abreviaturas------------------3
-
- 1.4 Referencias---------------------------------------------3
-
- 1.5 Apreciación Global--------------------------------------3
+1. Introducción ----------------------------------------------3
 
 
-2. Descripción General---------------------------------------4
+ 1.1 Propósito -----------------------------------------------3
 
- 2.1 Perspectiva del Producto--------------------------------4
+ 1.2 Alcance (Ámbito del sistema) ----------------------------3
 
- 2.2 Funciones del Producto----------------------------------4
+ 1.3 Definiciones, Acrónimos y Abreviaturas ------------------3
 
- 2.3 Características de los Usuarios-------------------------4
+ 1.4 Referencias ---------------------------------------------3
 
- 2.4 Restricciones-------------------------------------------4
-
- 2.5 Suposiciones y Dependencias-----------------------------4
+ 1.5 Apreciación Global --------------------------------------3
 
 
+2. Descripción General ---------------------------------------4
 
-3. Requerimientos Específicos--------------------------------5
+ 2.1 Perspectiva del Producto --------------------------------4
+
+ 2.2 Funciones del Producto ----------------------------------4
+
+ 2.3 Características de los Usuarios -------------------------4
+
+ 2.4 Restricciones -------------------------------------------4
+
+ 2.5 Suposiciones y Dependencias -----------------------------4
 
 
- 3.1 Requerimientos Funcionales------------------------------5
 
- 3.2 Requerimientos no Funcionales---------------------------5
+3. Requerimientos Específicos --------------------------------5
+
+
+ 3.1 Requerimientos Funcionales ------------------------------5
+
+ 3.2 Requerimientos no Funcionales ---------------------------5
  
- 3.2.1 Requisitos de rendimiento ----------------------------5
+ 3.2.1 Requisitos de rendimiento -----------------------------5
  
- 3.2.2 requisitos de seguridad-------------------------------5
+ 3.2.2 requisitos de seguridad -------------------------------5
  
- 3.2.3 requisitos de fiabilidad------------------------------5
+ 3.2.3 requisitos de fiabilidad ------------------------------5
  
- 3.2.4 requisitos de mantenibilidad--------------------------5
+ 3.2.4 requisitos de mantenibilidad --------------------------5
  
- 3.2.5 requisito  la estabilidad-----------------------------5
+ 3.2.5 requisito  la estabilidad -----------------------------5
  
 
 
