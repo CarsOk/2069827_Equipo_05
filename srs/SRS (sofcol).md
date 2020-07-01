@@ -61,16 +61,21 @@ Especificación y análisis de requisitos del software----------1
  3.1 Requerimientos Funcionales------------------------------5
 
  3.2 Requerimientos no Funcionales---------------------------5
+ 
  3.2.1 Requisitos de rendimiento ----------------------------5
+ 
  3.2.2 requisitos de seguridad-------------------------------5
+ 
  3.2.3 requisitos de fiabilidad------------------------------5
+ 
  3.2.4 requisitos de mantenibilidad--------------------------5
+ 
  3.2.5 requisito  la estabilidad-----------------------------5
  
 
 
 
-                                                                                                                pag.3
+                                                                                                                       pag.3
 
 
  1. introducción
@@ -80,8 +85,7 @@ Especificación y análisis de requisitos del software----------1
 1.1 propósito
 
 
-    Nuestro propósito en la institución es mejorar el sistema que utilizan para almacenar toda la información ya que tiene muchas fallas en el orden, rapidez, para obtener la información y que los padres se les pueda facilitar saber toda la información de nuestra institución, también darles nuevas herramientas tecnológicas al sector administrativo para que su trabajo pueda ser más eficiente y los padres a la hora de necesitar información de sus hijos puedan conseguirla de una manera rápida y segura
-
+Nuestro propósito en la institución es mejorar el sistema que utilizan para almacenar toda la información ya que tiene muchas fallas en el orden, rapidez, para obtener la información y que los padres se les pueda facilitar saber toda la información de nuestra institución, también darles nuevas herramientas tecnológicas al sector administrativo para que su trabajo pueda ser más eficiente y los padres a la hora de necesitar información de sus hijos puedan conseguirla de una manera rápida y segura
 
 
 1.2 Alcance (Ámbito del sistema)
@@ -137,10 +141,11 @@ Especificación y análisis de requisitos del software----------1
   Se sabe que las tecnologías son la aplicación de la ciencia a la resolución de problemas concretos y esto es lo que buscamos con la creación de sofcol que ayudara al desarrollo integral, educativo de las instituciones, además que deseamos que sea globalmente reconocido como una herramienta para el sector de la educación .
 
   Al crear sofcol no solo ayudamos a las instituciones sino que también se encargara de brindar seguridad y flexibilidad a las estudiantes ayudara a la automatización de los datos, su servicio será de grata importancia por que no solo cuidara de la información de las institucional sino que también ayudara al sector salud en algún momento de emergencia que se presente en cualquier institución siendo más practico con la generación de datos de gran importancia que pueden salvar la vida.
+  
 
 
 
-                                                                                                                                         pag.4
+                                                                                                                         pag.4
 
 
 
@@ -150,25 +155,25 @@ Especificación y análisis de requisitos del software----------1
   En el siguiente archivo se denotan las descripciones de sofcol
  
 2.1 Perspectiva del Producto
-  Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de información descriptiva de los alumnos, en este caso datos personales (Situación Socioeconómica), sus materias y el llenado de algunos formatos propios de la institución, también se ofrece la administración de la información académica de dichos alumnos.
+Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de información descriptiva de los alumnos, en este caso datos personales (Situación Socioeconómica), sus materias y el llenado de algunos formatos propios de la institución, también se ofrece la administración de la información académica de dichos alumnos.
 
 2.2	Funciones del Producto
 
 
  * Generación de reportes de calificaciones.
  * Vinculación de grupos y materias.
-  * Captura y modificación de calificaciones.
-  * Alta y baja de alumnos de la institución.
-  * Alta y baja del personal docente en la nómina.
+ * Captura y modificación de calificaciones.
+ * Alta y baja de alumnos de la institución.
+ * Alta y baja del personal docente en la nómina.
 
 
 2.3 Características de los Usuarios
 
   El sistema cuenta con tres tipos de usuarios final:
 
-  * El primero se conforma de capturistas o secretario: personas con nivel escolar promedio de preparatoria, deben tener conocimientos básicos de computación (Ofimática). “Nivel Administrativo”.
+  * El primero se conforma de capturistas o secretario: personas con nivel escolar promedio de preparatoria, deben tener conocimientos básicos de computación (Ofimática). “Nivel     Administrativo”.
 
-  * El siguiente nivel lo constituyen sobre todo el personal docente, el cual incluye también a los directores; son personas con niveles de educación superior con capacidad de manejo intermedio de equipo de cómputo. “Nivel Académico”.
+  * El siguiente nivel lo constituyen sobre todo el personal docente, el cual incluye también a los directores; son personas con niveles de educación superior con capacidad de      manejo intermedio de equipo de cómputo. “Nivel Académico”.
 
   * En este nivel se encuentran los padres de familia, tal usuario está pensado que no sepa mucho de tecnología ni la sepa usar. “Padres de Familia”
 
