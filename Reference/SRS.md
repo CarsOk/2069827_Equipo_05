@@ -10,7 +10,7 @@ Aprendices:
 
 	Dana arcón
 
-	Luz de la rosa 
+	Luz de la rosa
 
 Ficha: 2069827
 
@@ -97,7 +97,7 @@ Nuestro propósito en la institución es mejorar el sistema que utilizan para al
 
    * Se capacitará solo a 10 personas que la institución sugiera. La información que requiera este software será digitada por las 10 personas capacitadas o las que la institución contrate.
 
-   *Este proyecto no incluye la compra de hosting, dominio.
+   * Este proyecto no incluye la compra de hosting, dominio.
 
 
 1.3 Definiciones, Acrónimos y Abreviaturas
@@ -119,7 +119,7 @@ Nuestro propósito en la institución es mejorar el sistema que utilizan para al
 
 
 
-  *https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_web#:~:text=En%20la%20ingenier%C3%ADa%20de%20software,una%20intranet%20mediante%20un%20navegador
+  * https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_web#:~:text=En%20la%20ingenier%C3%ADa%20de%20software,una%20intranet%20mediante%20un%20navegador
 
 
 
@@ -185,7 +185,7 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
 
   Para el funcionamiento completo del sistema, se requiere tener los navegadores más comunes (Chrome, Firefox y Explorer), lo más importante:
 
-*conexión a internet 
+* conexión a internet 
 
 
 
@@ -200,10 +200,10 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
   Académicos
 
   *	Manejo de la autenticación de usuario (Sesión)
-  *	Dar de alta calificaciones 
+  *	Dar de alta calificaciones
   *	Modificar calificaciones
   *	Consultar listas de grupos y alumnos
-  *	Generar reportes de todo lo mencionado anteriormente 
+  *	Generar reportes de todo lo mencionado anteriormente
 
   Administrativo
 
@@ -211,11 +211,11 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
   * Dar de alta a alumnos
   * Dar de baja a alumnos
   * Dar de alta a personal docente
-  * Dar de baja a personal docente 
+  * Dar de baja a personal docente
   * Modificar calificaciones en caso que sea necesario
   * Consultar lista de grupos y de alumnos
   * Consultar lista de personal docente
-  * Vinculación de grupos-horarios Familiares 
+  * Vinculación de grupos-horarios Familiares
   * Consulta de calificaciones del alumno
 
   Familiares
@@ -226,7 +226,7 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
 
 3.2 Requerimientos no funcionales
 
-  3.2.1 Requisitos de rendimiento 
+  3.2.1 Requisitos de rendimiento
 
   El sistema de tiene un rendimiento para una respuesta de un tiempo mínimo de 1 minuto y medio.
 
@@ -238,9 +238,9 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
 
 3.2.3 requisitos de fiabilidad
 
-  Es uno de los factores que dará confianza al cliente, para lo cual el sistema está encargado del regalamiento de datos, que estos no se vean afectos por otros factores, que solo será manejado por el personal autorizado. 
+  Es uno de los factores que dará confianza al cliente, para lo cual el sistema está encargado del regalamiento de datos, que estos no se vean afectos por otros factores, que solo será manejado por el personal autorizado.
 
-3.2.4 requisitos de mantenibilidad 
+3.2.4 requisitos de mantenibilidad
   El sistema cuenta con características parametrizables lo que permitirá futuros mantenimientos, es decir que se pueden hacer cambios en este cuando se deseen ya sea cada un año o cada un mes, del que se encargara el sector administrativo después de hacer recibido su  respectiva capacitación.
 
 3.2.5 requisito  la estabilidad
