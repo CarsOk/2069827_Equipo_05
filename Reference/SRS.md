@@ -185,7 +185,7 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
 
   Para el funcionamiento completo del sistema, se requiere tener los navegadores más comunes (Chrome, Firefox y Explorer), lo más importante:
 
-* conexión a internet 
+* conexión a internet
 
 
 
@@ -215,8 +215,7 @@ Sofcol se proyecta como un sistema que tendrá la capacidad del manejo de inform
   * Modificar calificaciones en caso que sea necesario
   * Consultar lista de grupos y de alumnos
   * Consultar lista de personal docente
-  * Vinculación de grupos-horarios Familiares
-  * Consulta de calificaciones del alumno
+  * Vinculación de grupos-horarios 
 
   Familiares
 
